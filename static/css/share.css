@@ -1,0 +1,9 @@
+.f16{font-size:.8rem ;}
+.bx{border: #fff solid 2px;}
+.page_info {text-align:center;padding-bottom:25px;padding-top:25px;font-size:14px;color:#666;letter-spacing:1px;}
+.page_list {clear:both;text-align:center;padding-bottom:25px;padding-top:25px;}
+.page_list ul {margin:0;padding:0;height:40px;font-size:14px;color:#666;}
+.page_list li {width:auto;background:initial;display:inline-block;padding:0;height:auto;line-height:inherit;}
+.page_list a,.page_list a:visited {background:#FFF;border:1px solid #EEE;color:#111;display:inline-block;height:30px;line-height:30px;margin:2px;padding:0 11px;text-decoration:none;}
+.page_list a:hover,.page_list a:active,.page_list .press {background-color:#a37bde;border:1px solid #a37bde;color:#FFF;display:inline-block;height:30px;line-height:30px;margin:2px;padding:0 11px;}
+.page_list .on {background-color:#a37bde !important;color:#fff !important;}
